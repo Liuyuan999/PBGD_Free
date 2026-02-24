@@ -1,4 +1,4 @@
-## Examples in Fig.2
+## Toy Examples in Figure
 - See ```sft_dpo_positive_example.ipynb``` and ```negative_toy_example.ipynb```
 
 ## BLO PEFT learning
