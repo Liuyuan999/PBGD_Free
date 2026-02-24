@@ -17,5 +17,9 @@
 
 - After data preprocesssing, run ```main.py```
 
+## SVM
+- Our code is adapted from: [https://github.com/Liuyuan999/Penalty_Based_Lagrangian_Bilevel]
+
+
 ## BiDoRA
 - Run the code files for two dataset we considered on Jupyter Notebook
