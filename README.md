@@ -23,3 +23,15 @@
 
 ## BiDoRA
 - Run the code files for two dataset we considered on Jupyter Notebook
+
+## Citation
+
+```
+@inproceedings{
+  jiang2025beyond,
+  title={Beyond Value Functions: Single-Loop Bilevel Optimization under Flatness Conditions},
+  author={Liuyuan Jiang and Quan Xiao and Lisha Chen and Tianyi Chen},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
+```
