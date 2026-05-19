@@ -1,4 +1,4 @@
-## Toy Examples in Figure
+## Toy Examples in Figures
 - See ```sft_dpo_positive_example.ipynb``` and ```negative_toy_example.ipynb```
 
 ## BLO PEFT learning
@@ -25,13 +25,22 @@
 - Run the code files for two dataset we considered on Jupyter Notebook
 
 ## Citation
-
+**Conference paper for unconstrained LL PL case:**
 ```
 @inproceedings{
   jiang2025beyond,
   title={Beyond Value Functions: Single-Loop Bilevel Optimization under Flatness Conditions},
   author={Liuyuan Jiang and Quan Xiao and Lisha Chen and Tianyi Chen},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
+```
+**Journal version for coupled constrained LL strongly convex case:**
+```
+@article{jiang2025efficient,
+  title={Efficient Penalty-Based Bilevel Methods: Improved Analysis, Novel Updates, and Flatness Condition},
+  author={Jiang, Liuyuan and Xiao, Quan and Chen, Lisha and Chen, Tianyi},
+  journal={arXiv preprint arXiv:2511.16796},
   year={2025}
 }
 ```
